@@ -13,6 +13,6 @@
 
 <span float="center" height=200>
   <h2>GitHub Statistics</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=arolariu&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arolariu&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arolariu&show_icons=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=475159" float="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arolariu&show_icons=true&count_private=true&title_color=d1eaff&text_color=f2f9ff&icon_color=a3b9cc&bg_color=6e7e91" float="right" />
 </span>
