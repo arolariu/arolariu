@@ -1,11 +1,10 @@
 <span text-align="center">
 
-# arolariu
+<h1>Alexandru-Razvan Olariu<hr></h1>
+
 #### Hello everyone!
-##### My name is Olariu Alexandru-Razvan, I'm a software developer based in Bucharest, Romania.
-##### I started programming since I was very little, being a very curious individual.
-##### Right now I am working @Microsoft as a Technical Engineer.
-##### If you want to reach out to me, please contact me via LinkedIn (link below)
+<p> My name is Olariu Alexandru-Razvan, I'm a software developer based in Bucharest, Romania. <br> I started programming since I was very little, being a very curious individual. <br> Right now I am working @ Microsoft as a <strong>Technical Engineer</strong>. <br> <br> If you want to reach out to me, please contact me via LinkedIn (link below): </p>
+
 ##### 📫 https://www.linkedin.com/in/olariu-alexandru/?locale=en_US
 
 ## Visitors
