@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, September 11th, 2025, 11:16 PM
+Last updated: Friday, September 12th, 2025, 12:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 17 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⬆️ Pushed 10 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 🎉 Merged PR [#143](https://github.com/arolariu/arolariu.ro/pull/143) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [microsoft/tabster](https://github.com/microsoft/tabster)<br>
+2. ⭐ Starred [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br>
+3. ⬆️ Pushed 17 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed 10 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. 🎉 Merged PR [#143](https://github.com/arolariu/arolariu.ro/pull/143) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
