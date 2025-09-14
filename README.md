@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, September 14th, 2025, 4:26 AM
+Last updated: Sunday, September 14th, 2025, 6:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 12 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⭐ Starred [microsoft/tabster](https://github.com/microsoft/tabster)<br>
-3. ⭐ Starred [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br>
-4. ⬆️ Pushed 17 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed 10 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ⬆️ Pushed 12 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⭐ Starred [microsoft/tabster](https://github.com/microsoft/tabster)<br>
+4. ⭐ Starred [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild)<br>
+5. ⬆️ Pushed 17 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
