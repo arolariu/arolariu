@@ -1,6 +1,6 @@
+[![Email](https://img.shields.io/badge/email-admin%40arolariu.ro-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@arolariu.ro)
 [![Website](https://img.shields.io/badge/website-arolariu.ro-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arolariu.ro)
 [![LinkedIn](https://img.shields.io/badge/linkedin-arolariu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olariu-alexandru/)
-[![Email](https://img.shields.io/badge/email-admin%40arolariu.ro-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@arolariu.ro)
 
 ## Tech stack
 
