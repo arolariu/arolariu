@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Tuesday, September 16th, 2025, 4:19 AM
+Last updated: Tuesday, September 16th, 2025, 5:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#132](https://github.com/arolariu/arolariu.ro/issues/132) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. 💪 Opened PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed 57 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 🎉 Merged PR [#144](https://github.com/arolariu/arolariu.ro/pull/144) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [clerk/nextjs-auth-starter-template](https://github.com/clerk/nextjs-auth-starter-template)<br>
+2. ✔️ Closed issue [#132](https://github.com/arolariu/arolariu.ro/issues/132) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. 💪 Opened PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed 57 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. 🎉 Merged PR [#144](https://github.com/arolariu/arolariu.ro/pull/144) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
