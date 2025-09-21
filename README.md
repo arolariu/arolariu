@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, September 21st, 2025, 10:14 AM
+Last updated: Sunday, September 21st, 2025, 11:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)<br>
-4. ⭐ Starred [microsoft/garnet](https://github.com/microsoft/garnet)<br>
-5. ⭐ Starred [tw93/Pake](https://github.com/tw93/Pake)<br>
+1. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
+2. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)<br>
+5. ⭐ Starred [microsoft/garnet](https://github.com/microsoft/garnet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
