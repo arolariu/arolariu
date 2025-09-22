@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, September 22nd, 2025, 8:14 PM
+Last updated: Monday, September 22nd, 2025, 9:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
-2. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)<br>
-5. ⭐ Starred [microsoft/garnet](https://github.com/microsoft/garnet)<br>
+1. ⭐ Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)<br>
+2. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
+3. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
