@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, September 24th, 2025, 2:14 PM
+Last updated: Wednesday, September 24th, 2025, 3:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)<br>
-2. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
-3. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⭐ Starred [microsoft/mcp](https://github.com/microsoft/mcp)<br>
+1. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu](https://github.com/arolariu/arolariu)<br>
+2. ⭐ Starred [jordanbaird/Ice](https://github.com/jordanbaird/Ice)<br>
+3. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
+4. ⬆️ Pushed 110 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. 🎉 Merged PR [#145](https://github.com/arolariu/arolariu.ro/pull/145) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
