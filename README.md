@@ -29,3 +29,6 @@ Last updated: Wednesday, September 24th, 2025, 1:18 PM
 ![GitHub contributions infographic](assets/github-contributions-infographic.webp)
 
 <small> Generated on 15th August, 2025</small>
+
+
+<a href="https://info.flagcounter.com/op8I"><img src="https://s01.flagcounter.com/countxl/op8I/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
