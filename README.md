@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, October 1st, 2025, 8:18 AM
+Last updated: Wednesday, October 1st, 2025, 9:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)<br>
-2. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
-3. ⭐ Starred [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)<br>
-4. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+2. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)<br>
+3. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
+4. ⭐ Starred [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)<br>
+5. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
