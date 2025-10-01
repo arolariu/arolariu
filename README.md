@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, October 2nd, 2025, 1:16 AM
+Last updated: Thursday, October 2nd, 2025, 2:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
-2. ⭐ Starred [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)<br>
-3. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
-4. ⭐ Starred [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)<br>
-5. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⬆️ Pushed 33 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. 🎉 Merged PR [#151](https://github.com/arolariu/arolariu.ro/pull/151) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⬆️ Pushed 1 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. 💪 Opened PR [#151](https://github.com/arolariu/arolariu.ro/pull/151) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
