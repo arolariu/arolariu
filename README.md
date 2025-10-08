@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, October 8th, 2025, 11:25 AM
+Last updated: Wednesday, October 8th, 2025, 12:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. 🎉 Merged PR [#153](https://github.com/arolariu/arolariu.ro/pull/153) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 👍 Approved [#153](https://github.com/arolariu/arolariu.ro/pull/153#pullrequestreview-3311914058) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⭐ Starred [sail-sg/oat](https://github.com/sail-sg/oat)<br>
-5. 🔴 Requested changes in [#153](https://github.com/arolariu/arolariu.ro/pull/153#pullrequestreview-3311779890) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⬆️ Pushed 8 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. 🎉 Merged PR [#155](https://github.com/arolariu/arolariu.ro/pull/155) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⬆️ Pushed 2 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. 💪 Opened PR [#155](https://github.com/arolariu/arolariu.ro/pull/155) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ⬆️ Pushed 6 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
