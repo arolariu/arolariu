@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, October 12th, 2025, 8:14 PM
+Last updated: Sunday, October 12th, 2025, 9:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#150](https://github.com/arolariu/arolariu.ro/issues/150) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ✔️ Closed issue [#152](https://github.com/arolariu/arolariu.ro/issues/152) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed 5 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 🎉 Merged PR [#157](https://github.com/arolariu/arolariu.ro/pull/157) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ❗️ Opened issue [#158](https://github.com/arolariu/arolariu.ro/issues/158) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. 🔴 Requested changes in [#161](https://github.com/arolariu/arolariu.ro/pull/161#pullrequestreview-3327989357) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. 🔴 Requested changes in [#159](https://github.com/arolariu/arolariu.ro/pull/159#pullrequestreview-3327985694) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ❗️ Opened issue [#160](https://github.com/arolariu/arolariu.ro/issues/160) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ✔️ Closed issue [#150](https://github.com/arolariu/arolariu.ro/issues/150) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ✔️ Closed issue [#152](https://github.com/arolariu/arolariu.ro/issues/152) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
