@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, October 12th, 2025, 10:15 AM
+Last updated: Sunday, October 12th, 2025, 11:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif)<br>
-2. ⬆️ Pushed 16 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 🎉 Merged PR [#156](https://github.com/arolariu/arolariu.ro/pull/156) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 💪 Opened PR [#156](https://github.com/arolariu/arolariu.ro/pull/156) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed 16 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ✔️ Closed issue [#150](https://github.com/arolariu/arolariu.ro/issues/150) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ✔️ Closed issue [#152](https://github.com/arolariu/arolariu.ro/issues/152) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⬆️ Pushed 5 commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. 🎉 Merged PR [#157](https://github.com/arolariu/arolariu.ro/pull/157) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ❗️ Opened issue [#158](https://github.com/arolariu/arolariu.ro/issues/158) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
