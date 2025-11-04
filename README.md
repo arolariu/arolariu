@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Wednesday, November 5th, 2025, 12:17 AM
+Last updated: Wednesday, November 5th, 2025, 1:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#201](https://github.com/arolariu/arolariu.ro/issues/201) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 💪 Opened PR [#200](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. 🔴 Requested changes in [#203](https://github.com/arolariu/arolariu.ro/pull/203#pullrequestreview-3418921075) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. 🔴 Requested changes in [#202](https://github.com/arolariu/arolariu.ro/pull/202#pullrequestreview-3418879869) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ❗️ Opened issue [#201](https://github.com/arolariu/arolariu.ro/issues/201) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. 💪 Opened PR [#200](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
