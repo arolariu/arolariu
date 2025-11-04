@@ -11,13 +11,13 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Tuesday, November 4th, 2025, 11:21 AM
+Last updated: Tuesday, November 4th, 2025, 12:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [calico-games/react-native-godot](https://github.com/calico-games/react-native-godot)<br>
-2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. 🔴 Requested changes in [#197](https://github.com/arolariu/arolariu.ro/pull/197#pullrequestreview-3415357517) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ❗️ Opened issue [#196](https://github.com/arolariu/arolariu.ro/issues/196) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⭐ Starred [calico-games/react-native-godot](https://github.com/calico-games/react-native-godot)<br>
 4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
