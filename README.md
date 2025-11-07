@@ -11,14 +11,14 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Friday, November 7th, 2025, 1:17 AM
+Last updated: Friday, November 7th, 2025, 3:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [withastro/starlight](https://github.com/withastro/starlight)<br>
 2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ✔️ Closed issue [#201](https://github.com/arolariu/arolariu.ro/issues/201) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ✔️ Closed issue [#201](https://github.com/arolariu/arolariu.ro/issues/201) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
