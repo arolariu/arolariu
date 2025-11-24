@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, November 24th, 2025, 10:28 AM
+Last updated: Monday, November 24th, 2025, 11:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ept/ddia2-references](https://github.com/ept/ddia2-references)<br>
-2. 💪 Opened PR [#218](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)<br>
-5. ⭐ Starred [kavishdevar/librepods](https://github.com/kavishdevar/librepods)<br>
+1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ⭐ Starred [ept/ddia2-references](https://github.com/ept/ddia2-references)<br>
+3. 💪 Opened PR [#218](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ⭐ Starred [SignalR/SignalR](https://github.com/SignalR/SignalR)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
