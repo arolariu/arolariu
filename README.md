@@ -11,7 +11,7 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Thursday, November 27th, 2025, 11:22 AM
+Last updated: Thursday, November 27th, 2025, 12:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
