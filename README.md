@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, December 21st, 2025, 12:17 AM
+Last updated: Sunday, December 21st, 2025, 1:18 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. 💪 Opened PR [#267](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ❌ Closed PR [#185](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [taublast/Doom.Mobile](https://github.com/taublast/Doom.Mobile)<br>
+2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. 💪 Opened PR [#267](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ❌ Closed PR [#185](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
