@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, December 22nd, 2025, 1:18 PM
+Last updated: Monday, December 22nd, 2025, 2:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⭐ Starred [taublast/Doom.Mobile](https://github.com/taublast/Doom.Mobile)<br>
+3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. 💪 Opened PR [#267](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ⭐ Starred [taublast/Doom.Mobile](https://github.com/taublast/Doom.Mobile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
