@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, December 29th, 2025, 10:31 AM
+Last updated: Monday, December 29th, 2025, 11:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)<br>
 2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ❗️ Opened issue [#302](https://github.com/arolariu/arolariu.ro/issues/302) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ❗️ Opened issue [#301](https://github.com/arolariu/arolariu.ro/issues/301) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ❗️ Opened issue [#300](https://github.com/arolariu/arolariu.ro/issues/300) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ❗️ Opened issue [#302](https://github.com/arolariu/arolariu.ro/issues/302) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ❗️ Opened issue [#301](https://github.com/arolariu/arolariu.ro/issues/301) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
