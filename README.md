@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Friday, February 6th, 2026, 11:42 AM
+Last updated: Friday, February 6th, 2026, 12:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#395](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⭐ Starred [google/A2UI](https://github.com/google/A2UI)<br>
-3. ⭐ Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)<br>
-4. ⭐ Starred [eslint/eslint](https://github.com/eslint/eslint)<br>
-5. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
+1. ✔️ Closed issue [#396](https://github.com/arolariu/arolariu.ro/issues/396) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ✔️ Closed issue [#394](https://github.com/arolariu/arolariu.ro/issues/394) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ✔️ Closed issue [#393](https://github.com/arolariu/arolariu.ro/issues/393) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ✔️ Closed issue [#391](https://github.com/arolariu/arolariu.ro/issues/391) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ✔️ Closed issue [#375](https://github.com/arolariu/arolariu.ro/issues/375) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
