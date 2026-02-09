@@ -11,14 +11,14 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Monday, February 9th, 2026, 11:38 PM
+Last updated: Tuesday, February 10th, 2026, 12:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
+2. ⭐ Starred [obra/double-shot-latte](https://github.com/obra/double-shot-latte)<br>
 3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 💪 Opened PR [#404](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
