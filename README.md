@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, February 14th, 2026, 12:33 AM
+Last updated: Saturday, February 14th, 2026, 1:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)<br>
-2. ⭐ Starred [microsoft/litebox](https://github.com/microsoft/litebox)<br>
-3. ⭐ Starred [jmechner/Prince-of-Persia-Apple-II](https://github.com/jmechner/Prince-of-Persia-Apple-II)<br>
-4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. 💪 Opened PR [#406](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+1. ⭐ Starred [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)<br>
+2. ⭐ Starred [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)<br>
+3. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+4. ⭐ Starred [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus)<br>
+5. ⭐ Starred [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
