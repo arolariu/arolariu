@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, March 7th, 2026, 9:21 PM
+Last updated: Saturday, March 7th, 2026, 10:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openai/symphony](https://github.com/openai/symphony)<br>
-2. ⭐ Starred [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter)<br>
-3. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)<br>
-4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⭐ Starred [timothywarner-org/az104-cert-buddy](https://github.com/timothywarner-org/az104-cert-buddy)<br>
+1. ❌ Closed PR [#481](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. 💪 Opened PR [#494](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⭐ Starred [openai/symphony](https://github.com/openai/symphony)<br>
+4. ⭐ Starred [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter)<br>
+5. ⭐ Starred [vitejs/vite](https://github.com/vitejs/vite)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
