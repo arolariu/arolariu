@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Sunday, March 29th, 2026, 6:31 PM
+Last updated: Sunday, March 29th, 2026, 7:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ❗️ Opened issue [#2296](https://github.com/amannn/next-intl/issues/2296) in [amannn/next-intl](https://github.com/amannn/next-intl)<br>
+1. ✔️ Closed issue [#485](https://github.com/arolariu/arolariu.ro/issues/485) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+2. ✔️ Closed issue [#482](https://github.com/arolariu/arolariu.ro/issues/482) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ✔️ Closed issue [#480](https://github.com/arolariu/arolariu.ro/issues/480) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+4. ✔️ Closed issue [#473](https://github.com/arolariu/arolariu.ro/issues/473) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+5. ✔️ Closed issue [#458](https://github.com/arolariu/arolariu.ro/issues/458) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
