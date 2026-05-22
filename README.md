@@ -11,15 +11,15 @@ Day‑to‑day tools I’m comfortable with:
 ## Recent activity
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, May 23rd, 2026, 12:08 AM
+Last updated: Saturday, May 23rd, 2026, 1:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
 2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. 💪 Opened PR [#789](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
+3. ⭐ Starred [github/app](https://github.com/github/app)<br>
+4. ⭐ Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)<br>
+5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
