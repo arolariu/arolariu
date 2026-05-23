@@ -8,27 +8,8 @@ Day‑to‑day tools I’m comfortable with:
 
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,azure,git,githubactions,docker,kubernetes,postgres,redis,prometheus,grafana,powershell,graphql,reactivex,rust,svelte,tailwind,visualstudio,vscode,wasm,rabbitmq&perline=6)
 
-## Recent activity
-
-<!--RECENT_ACTIVITY:last_update-->
-Last updated: Saturday, May 23rd, 2026, 9:00 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-2. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-3. 💪 Opened PR [#790](undefined) in [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-4. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-5. ⬆️ Pushed undefined commit(s) to [arolariu/arolariu.ro](https://github.com/arolariu/arolariu.ro)<br>
-<!--RECENT_ACTIVITY:end-->
-
----
-
 ### Infographic
 
 ![GitHub contributions infographic](assets/github-contributions-infographic.webp)
 
 <small> Generated on 15th August, 2025</small>
-
-
-<a href="https://info.flagcounter.com/op8I"><img src="https://s01.flagcounter.com/countxl/op8I/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
