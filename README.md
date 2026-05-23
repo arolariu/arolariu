@@ -8,8 +8,4 @@ Day‑to‑day tools I’m comfortable with:
 
 ![Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nextjs,azure,git,githubactions,docker,kubernetes,postgres,redis,prometheus,grafana,powershell,graphql,reactivex,rust,svelte,tailwind,visualstudio,vscode,wasm,rabbitmq&perline=6)
 
-### Infographic
-
 ![GitHub contributions infographic](assets/github-contributions-infographic.webp)
-
-<small> Generated on 15th August, 2025</small>
